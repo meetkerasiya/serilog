@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\serilog in .NET Core.props" />
+</Project>

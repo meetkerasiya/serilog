@@ -1,0 +1,44 @@
+C:\Users\Meet  Kerasiya\source\repos\serilog\serilog\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Meet  Kerasiya\source\repos\serilog\serilog\bin\Debug\net6.0\appsettings.json
+C:\Users\Meet  Kerasiya\source\repos\serilog\serilog\bin\Debug\net6.0\serilog in .NET Core.staticwebassets.runtime.json
+C:\Users\Meet  Kerasiya\source\repos\serilog\serilog\bin\Debug\net6.0\serilog in .NET Core.exe
+C:\Users\Meet  Kerasiya\source\repos\serilog\serilog\bin\Debug\net6.0\serilog in .NET Core.deps.json
+C:\Users\Meet  Kerasiya\source\repos\serilog\serilog\bin\Debug\net6.0\serilog in .NET Core.runtimeconfig.json
+C:\Users\Meet  Kerasiya\source\repos\serilog\serilog\bin\Debug\net6.0\serilog in .NET Core.dll
+C:\Users\Meet  Kerasiya\source\repos\serilog\serilog\bin\Debug\net6.0\serilog in .NET Core.pdb
+C:\Users\Meet  Kerasiya\source\repos\serilog\serilog\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Meet  Kerasiya\source\repos\serilog\serilog\bin\Debug\net6.0\Serilog.dll
+C:\Users\Meet  Kerasiya\source\repos\serilog\serilog\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Users\Meet  Kerasiya\source\repos\serilog\serilog\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Users\Meet  Kerasiya\source\repos\serilog\serilog\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\Meet  Kerasiya\source\repos\serilog\serilog\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\Meet  Kerasiya\source\repos\serilog\serilog\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Users\Meet  Kerasiya\source\repos\serilog\serilog\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\Meet  Kerasiya\source\repos\serilog\serilog\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Users\Meet  Kerasiya\source\repos\serilog\serilog\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\Meet  Kerasiya\source\repos\serilog\serilog\obj\Debug\net6.0\serilog in .NET Core.csproj.AssemblyReference.cache
+C:\Users\Meet  Kerasiya\source\repos\serilog\serilog\obj\Debug\net6.0\serilog in .NET Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meet  Kerasiya\source\repos\serilog\serilog\obj\Debug\net6.0\serilog in .NET Core.AssemblyInfoInputs.cache
+C:\Users\Meet  Kerasiya\source\repos\serilog\serilog\obj\Debug\net6.0\serilog in .NET Core.AssemblyInfo.cs
+C:\Users\Meet  Kerasiya\source\repos\serilog\serilog\obj\Debug\net6.0\serilog in .NET Core.csproj.CoreCompileInputs.cache
+C:\Users\Meet  Kerasiya\source\repos\serilog\serilog\obj\Debug\net6.0\serilog in .NET Core.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Meet  Kerasiya\source\repos\serilog\serilog\obj\Debug\net6.0\serilog in .NET Core.RazorAssemblyInfo.cache
+C:\Users\Meet  Kerasiya\source\repos\serilog\serilog\obj\Debug\net6.0\serilog in .NET Core.RazorAssemblyInfo.cs
+C:\Users\Meet  Kerasiya\source\repos\serilog\serilog\obj\Debug\net6.0\staticwebassets\msbuild.serilog in .NET Core.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Meet  Kerasiya\source\repos\serilog\serilog\obj\Debug\net6.0\staticwebassets\msbuild.build.serilog in .NET Core.props
+C:\Users\Meet  Kerasiya\source\repos\serilog\serilog\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.serilog in .NET Core.props
+C:\Users\Meet  Kerasiya\source\repos\serilog\serilog\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.serilog in .NET Core.props
+C:\Users\Meet  Kerasiya\source\repos\serilog\serilog\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Meet  Kerasiya\source\repos\serilog\serilog\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Meet  Kerasiya\source\repos\serilog\serilog\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Meet  Kerasiya\source\repos\serilog\serilog\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Meet  Kerasiya\source\repos\serilog\serilog\obj\Debug\net6.0\scopedcss\bundle\serilog in .NET Core.styles.css
+C:\Users\Meet  Kerasiya\source\repos\serilog\serilog\obj\Debug\net6.0\scopedcss\projectbundle\serilog in .NET Core.bundle.scp.css
+C:\Users\Meet  Kerasiya\source\repos\serilog\serilog\obj\Debug\net6.0\serilog in .NET Core.csproj.CopyComplete
+C:\Users\Meet  Kerasiya\source\repos\serilog\serilog\obj\Debug\net6.0\serilog in .NET Core.dll
+C:\Users\Meet  Kerasiya\source\repos\serilog\serilog\obj\Debug\net6.0\refint\serilog in .NET Core.dll
+C:\Users\Meet  Kerasiya\source\repos\serilog\serilog\obj\Debug\net6.0\serilog in .NET Core.pdb
+C:\Users\Meet  Kerasiya\source\repos\serilog\serilog\obj\Debug\net6.0\serilog in .NET Core.genruntimeconfig.cache
+C:\Users\Meet  Kerasiya\source\repos\serilog\serilog\obj\Debug\net6.0\ref\serilog in .NET Core.dll
+C:\Users\Meet  Kerasiya\source\repos\serilog\serilog\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
+C:\Users\Meet  Kerasiya\source\repos\serilog\serilog\bin\Debug\net6.0\Serilog.Sinks.Seq.dll
